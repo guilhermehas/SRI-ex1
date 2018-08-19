@@ -27,3 +27,4 @@
 *.mtc0
 *.tex~
 *.orig
+.ipynb_checkpoints
